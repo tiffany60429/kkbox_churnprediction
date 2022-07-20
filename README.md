@@ -1,1 +1,1 @@
-# kkbox_churnprediction
+# KKBOX_ChurnRateEDA
