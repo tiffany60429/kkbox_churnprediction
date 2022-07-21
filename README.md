@@ -5,10 +5,10 @@
 
 
 
-![EDA](https://drive.google.com/uc?export=view&id=<1O5oHwVbM86a1CBXaWmbIg_dLTY3auVsq>)
+![EDA](https://drive.google.com/uc?export=view&id=1O5oHwVbM86a1CBXaWmbIg_dLTY3auVsq)
 
-![Correlation1](https://drive.google.com/uc?export=view&id=<1QKXcNaNHUz6Xu_uyNrFXXBC-ZX6zcRt_>)
+![Correlation1](https://drive.google.com/uc?export=view&id=1QKXcNaNHUz6Xu_uyNrFXXBC-ZX6zcRt_)
 
-![Correlation2](https://drive.google.com/uc?export=view&id=<1dD6sIwDMGsCBH542RrFhb9HPpmf2Esgt>)
+![Correlation2](https://drive.google.com/uc?export=view&id=1dD6sIwDMGsCBH542RrFhb9HPpmf2Esgt)
 
-![Conclusion](https://drive.google.com/uc?export=view&id=<1IWfqbxjsG4VX6576POiFTaY-6DvyMMij>)
+![Conclusion](https://drive.google.com/uc?export=view&id=1IWfqbxjsG4VX6576POiFTaY-6DvyMMij)
